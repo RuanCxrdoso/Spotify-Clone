@@ -22,7 +22,7 @@ Foram utilizadas as seguintes tecnologias neste projeto:
 <br>
 
 > ## Printscreen do Projeto 📸
-![spotify](https://github.com/RuanCxrdoso/Spotify-Clone/assets/86266893/ca11b872-5b9a-4dd3-b66e-beb5522e4f06)
+![spotify](https://github.com/RuanCxrdoso/Spotify-Clone/assets/86266893/bde0d93c-d57a-4c20-a416-7f7b1a35b4a4)
 
 <br>
 <br>
