@@ -14,7 +14,7 @@ Foram utilizadas as seguintes tecnologias neste projeto:
 + Next.Js:
   - Ambiente de desenvolvimento para o próprio React, no qual incrementa diversas funcionalidades a ele, como SSR e um sistema de roteamento.
 + Tailwind CSS:
-  - Principal estilizador de componontes do Next.js, baseado em classes.
+  - Principal estilizador de componentes do Next.js, baseado em classes.
 + Animate on Scroll:
   - Framework para aplicação de animações nos componentes quando são expostos na tela pelo uso da scrollbar.
 
