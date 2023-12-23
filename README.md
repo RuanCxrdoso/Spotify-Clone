@@ -1,3 +1,4 @@
+# Spotify 🔊
 ![Spotify Logo](https://sm.ign.com/ign_br/tech/default/spotify-1280x720_rjk6.jpg)
 # Clone da Interface do Spotify 🔊
 
@@ -28,4 +29,4 @@ Foram utilizadas as seguintes tecnologias neste projeto:
 <br>
 
 > ## Autor 📝
-+ [Ruan Cardoso](https://github.com/RuanCxrdoso)
++ [Ruan Cardoso](https://www.linkedin.com/in/ruancardosolinkdin/)
